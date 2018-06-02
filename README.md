@@ -1,8 +1,8 @@
 *************************************************************
 *                                                           *
-*			Term Project 	CSCI-6405           *
-*			Athi Narayanan,	B00736197           *
-*			Kartik Puri,	B00762840           *
+*			Term Project 	CSCI-6405			            *
+*			Athi Narayanan,	B00736197			            *
+*			Kartik Puri,	B00762840			            *
 *                                                           *
 *************************************************************
 
@@ -13,7 +13,7 @@ LIST OF FILES/Directories:
 ****************************************************************************************************************
 <Src>	:		This directory contains following source code files
 	- Node.java
-	- ItemList.java
+	- ItemList.javac
 	- SortedSetTest.java
 
 <Test>	:		This directory contains the source code used for comparison (Downloaded from University of Liverpool website)
